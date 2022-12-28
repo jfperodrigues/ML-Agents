@@ -8,6 +8,8 @@ This repository is used to expose some of the work developed in my thesis in 3D 
 
 In this game the player is presented with a field full of polluted purple bushes. The player's objective is to walk though the field and clean these polluted bushes until they turn green. Besides the polluted bushes, the field also has some rocks and fallen trunks that serve as obstacles the player must avoid.
 
+![CTB](\cleanthebush.PNG)
+
 ### Carry the Box
 
 In this cooperative game the players have to work in two different zones to deliver boxes to a carriage. The first player has to carry the boxes from spawn to a ramp, which delivers the boxes for the second player to deliver to the carriage.
