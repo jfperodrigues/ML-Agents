@@ -14,3 +14,4 @@ In this cooperative game the players have to work in two different zones to deli
 
 ### Capture the Flag
 
+In this competitive game, 2 teams of 3 players compete to steal the opposition flag and return it to home field. To aid this, the players can pick up balls from the field and throw it against opponents to stun them for a short duration and make them drop any flags they are carrying.
