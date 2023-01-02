@@ -1,0 +1,2792 @@
+Round 1
+Round time: 159,98
+Time Performing Clean Action: 83,39993
+Time in Bush: 1,38
+Amount Cleaned: 0,4799998
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 258
+Round 2
+Round time: 160
+Time Performing Clean Action: 79,40025
+Time in Bush: 6,219955
+Amount Cleaned: 1,579999
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 218
+Round 3
+Round time: 160
+Time Performing Clean Action: 50,69983
+Time in Bush: 5,139984
+Amount Cleaned: 1,259999
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 318
+Round 4
+Round time: 160
+Time Performing Clean Action: 99,80002
+Time in Bush: 3,980011
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 169
+Round 5
+Round time: 160
+Time Performing Clean Action: 116,9999
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 442
+Round 6
+Round time: 160
+Time Performing Clean Action: 108,7
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 458
+Round 7
+Round time: 160
+Time Performing Clean Action: 154,5001
+Time in Bush: 5,039917
+Amount Cleaned: 2,28
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 319
+Round 8
+Round time: 160
+Time Performing Clean Action: 157
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 321
+Round 9
+Round time: 160
+Time Performing Clean Action: 27,09998
+Time in Bush: 0,2800293
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 247
+Round 10
+Round time: 160
+Time Performing Clean Action: 91,09998
+Time in Bush: 3,300049
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 153
+Round 11
+Round time: 160
+Time Performing Clean Action: 120,6
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 433
+Round 12
+Round time: 160
+Time Performing Clean Action: 139,7
+Time in Bush: 1,719971
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 373
+Round 13
+Round time: 160
+Time Performing Clean Action: 59,5
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 161
+Round 14
+Round time: 160
+Time Performing Clean Action: 99,6001
+Time in Bush: 0,7402344
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 372
+Round 15
+Round time: 160
+Time Performing Clean Action: 138,1003
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 334
+Round 16
+Round time: 160
+Time Performing Clean Action: 130,1995
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 349
+Round 17
+Round time: 160
+Time Performing Clean Action: 43,5
+Time in Bush: 1,219727
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 131
+Round 18
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 19
+Round time: 160
+Time Performing Clean Action: 84,19995
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 283
+Round 20
+Round time: 160
+Time Performing Clean Action: 89,1001
+Time in Bush: 4,580322
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 236
+Round 21
+Round time: 160
+Time Performing Clean Action: 79,7998
+Time in Bush: 7,120361
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 239
+Round 22
+Round time: 160
+Time Performing Clean Action: 143,7996
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 453
+Round 23
+Round time: 160
+Time Performing Clean Action: 51,7002
+Time in Bush: 6,339111
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 133
+Round 24
+Round time: 160
+Time Performing Clean Action: 35,6001
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 473
+Round 25
+Round time: 160
+Time Performing Clean Action: 208,9001
+Time in Bush: 1,120361
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 415
+Round 26
+Round time: 160
+Time Performing Clean Action: 120,7002
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 381
+Round 27
+Round time: 160
+Time Performing Clean Action: 187,8999
+Time in Bush: 4,319824
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 455
+Round 28
+Round time: 160
+Time Performing Clean Action: 48,90039
+Time in Bush: 1,659668
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 368
+Round 29
+Round time: 160
+Time Performing Clean Action: 99,5
+Time in Bush: 2,819824
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 30
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,939941
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 31
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,661621
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 32
+Round time: 160
+Time Performing Clean Action: 103,9004
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 426
+Round 33
+Round time: 160
+Time Performing Clean Action: 58,69971
+Time in Bush: 1,199707
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 62
+Round 34
+Round time: 160
+Time Performing Clean Action: 61,79932
+Time in Bush: 1,219727
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 186
+Round 35
+Round time: 160
+Time Performing Clean Action: 38,00049
+Time in Bush: 2,399902
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 377
+Round 36
+Round time: 160
+Time Performing Clean Action: 87,80029
+Time in Bush: 0,5600586
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 37
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 38
+Round time: 160
+Time Performing Clean Action: 105,0991
+Time in Bush: 3,598633
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 314
+Round 39
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,099609
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 40
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,879395
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 41
+Round time: 160
+Time Performing Clean Action: 37,40039
+Time in Bush: 3,980957
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 112
+Round 42
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 43
+Round time: 160
+Time Performing Clean Action: 87,1001
+Time in Bush: 0,8798828
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 270
+Round 44
+Round time: 160
+Time Performing Clean Action: 121,6001
+Time in Bush: 4,140137
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 356
+Round 45
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 46
+Round time: 160
+Time Performing Clean Action: 6
+Time in Bush: 10,34229
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 18
+Round 47
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 48
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,320313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 49
+Round time: 160
+Time Performing Clean Action: 48,7002
+Time in Bush: 2,639648
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 234
+Round 50
+Round time: 160
+Time Performing Clean Action: 185
+Time in Bush: 4,400391
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 455
+Round 51
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,7607422
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 52
+Round time: 159,9995
+Time Performing Clean Action: 0
+Time in Bush: 10,7373
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 53
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,9003906
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 54
+Round time: 160
+Time Performing Clean Action: 116,3008
+Time in Bush: 12,24023
+Amount Cleaned: 6,000045
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 356
+Round 55
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,980469
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 468
+Round 56
+Round time: 160
+Time Performing Clean Action: 246
+Time in Bush: 3,200195
+Amount Cleaned: 1,179999
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 210
+Round 57
+Round time: 160
+Time Performing Clean Action: 28,2998
+Time in Bush: 7,620117
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 85
+Round 58
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,84082
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 59
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 5,758789
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 60
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,620117
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 61
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 7,980469
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 62
+Round time: 160
+Time Performing Clean Action: 37,7002
+Time in Bush: 3,757813
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 370
+Round 63
+Round time: 160
+Time Performing Clean Action: 137,7998
+Time in Bush: 8,200195
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 156
+Round 64
+Round time: 160
+Time Performing Clean Action: 109,2998
+Time in Bush: 2,460938
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 328
+Round 65
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 12,47754
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 146
+Round 66
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 67
+Round time: 160
+Time Performing Clean Action: 262,5
+Time in Bush: 13,5791
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 138
+Round 68
+Round time: 160
+Time Performing Clean Action: 35,49902
+Time in Bush: 11,94434
+Amount Cleaned: 0,14
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 105
+Round 69
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 70
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 11,3418
+Amount Cleaned: 0,5499998
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 109
+Round 71
+Round time: 160
+Time Performing Clean Action: 140,3008
+Time in Bush: 4,339844
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 296
+Round 72
+Round time: 160
+Time Performing Clean Action: 64,80078
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 194
+Round 73
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,65918
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 74
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,8789063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 75
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,100586
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 76
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 14,86035
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 36
+Round 77
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 78
+Round time: 160
+Time Performing Clean Action: 188,7002
+Time in Bush: 7,661133
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 102
+Round 79
+Round time: 160
+Time Performing Clean Action: 25,2002
+Time in Bush: 1,279297
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 80
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 18,52051
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 219
+Round 81
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 82
+Round time: 160
+Time Performing Clean Action: 237,2002
+Time in Bush: 11,99805
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 83
+Round time: 160
+Time Performing Clean Action: 10,90039
+Time in Bush: 3,480469
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 80
+Round 84
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,979492
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 468
+Round 85
+Round time: 160
+Time Performing Clean Action: 197
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 63
+Round 86
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,296875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 87
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 475
+Round 88
+Round time: 160
+Time Performing Clean Action: 158,5
+Time in Bush: 14,04004
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 89
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,360352
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 122
+Round 90
+Round time: 160
+Time Performing Clean Action: 40,80078
+Time in Bush: 0,9404297
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 91
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 5,741211
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 217
+Round 92
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 93
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 94
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 95
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 96
+Round time: 160
+Time Performing Clean Action: 742,5996
+Time in Bush: 2,702148
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 409
+Round 97
+Round time: 160
+Time Performing Clean Action: 110,1006
+Time in Bush: 0,3007813
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 98
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 99
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 473
+Round 100
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 101
+Round time: 160
+Time Performing Clean Action: 317,8008
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 471
+Round 102
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 103
+Round time: 160,001
+Time Performing Clean Action: 317,1006
+Time in Bush: 0,4599609
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 104
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,054688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 105
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 106
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,177734
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 107
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,039063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 108
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 474
+Round 109
+Round time: 160
+Time Performing Clean Action: 158,0996
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 110
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,037109
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 49
+Round 111
+Round time: 160
+Time Performing Clean Action: 16,59961
+Time in Bush: 0,2402344
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 112
+Round time: 160
+Time Performing Clean Action: 9,099609
+Time in Bush: 0,3398438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 27
+Round 113
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,7402344
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 466
+Round 114
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 115
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 116
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 117
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 7,960938
+Amount Cleaned: 4
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 456
+Round 118
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 119
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 120
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 121
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 122
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 123
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 124
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,980469
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 468
+Round 125
+Round time: 160
+Time Performing Clean Action: 1915,5
+Time in Bush: 1,123047
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 126
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3203125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 464
+Round 127
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 128
+Round time: 160
+Time Performing Clean Action: 314,9004
+Time in Bush: 2,320313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 441
+Round 129
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 130
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 131
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 132
+Round time: 160
+Time Performing Clean Action: 627,2012
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 83
+Round 133
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 134
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 135
+Round time: 160
+Time Performing Clean Action: 375
+Time in Bush: 3,638672
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 82
+Round 136
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,597656
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 137
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 9,898438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 274
+Round 138
+Round time: 160
+Time Performing Clean Action: 91,5
+Time in Bush: 1,777344
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 139
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,8789063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 462
+Round 140
+Round time: 160
+Time Performing Clean Action: 154
+Time in Bush: 6,058594
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 141
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,298828
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 142
+Round time: 159,998
+Time Performing Clean Action: 0
+Time in Bush: 2,900391
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 143
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,9414063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 144
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 5,019531
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 145
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,978516
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 428
+Round 146
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 147
+Round time: 160
+Time Performing Clean Action: 302,7012
+Time in Bush: 1,638672
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 148
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,09960938
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 233
+Round 149
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 150
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 151
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 152
+Round time: 160
+Time Performing Clean Action: 557,9004
+Time in Bush: 1,001953
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 339
+Round 153
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 154
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 155
+Round time: 160
+Time Performing Clean Action: 466,9004
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 102
+Round 156
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,6015625
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 426
+Round 157
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,980469
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 469
+Round 158
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 159
+Round time: 160
+Time Performing Clean Action: 474,4023
+Time in Bush: 8,794922
+Amount Cleaned: 2,019999
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 30
+Round 160
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,279297
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 361
+Round 161
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 162
+Round time: 160
+Time Performing Clean Action: 280,5996
+Time in Bush: 1,160156
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 452
+Round 163
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 164
+Round time: 160
+Time Performing Clean Action: 310,7012
+Time in Bush: 0,6386719
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 165
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 166
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,583984
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 167
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 168
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,058594
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 169
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,259766
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 170
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,740234
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 171
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 172
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,4609375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 173
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,6191406
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 174
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,1210938
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 175
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,5410156
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 176
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,28125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 177
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,316406
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 178
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,304688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 179
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,898438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 105
+Round 180
+Round time: 160
+Time Performing Clean Action: 35
+Time in Bush: 1,263672
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 181
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 182
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,359375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 183
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,984375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 184
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,359375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 185
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3808594
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 186
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 31,48633
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 187
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,259766
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 188
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 189
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,101563
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 190
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 464
+Round 191
+Round time: 160
+Time Performing Clean Action: 201,0996
+Time in Bush: 8,960938
+Amount Cleaned: 3,999998
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 427
+Round 192
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 193
+Round time: 160
+Time Performing Clean Action: 264
+Time in Bush: 0,6621094
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 187
+Round 194
+Round time: 160
+Time Performing Clean Action: 62,40039
+Time in Bush: 0,9785156
+Amount Cleaned: 0,02
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 195
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 196
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,359375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 197
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 9,404297
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 198
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,59375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 199
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 200
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 438
+Round 201
+Round time: 160
+Time Performing Clean Action: 146
+Time in Bush: 8,621094
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 202
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3808594
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 203
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 204
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,4179688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 205
+Round time: 160,002
+Time Performing Clean Action: 0
+Time in Bush: 0,3398438
+Amount Cleaned: 0,03
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 462
+Round 206
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 207
+Round time: 160
+Time Performing Clean Action: 314,3008
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 474
+Round 208
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 209
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 210
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 211
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 212
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 213
+Round time: 160
+Time Performing Clean Action: 958,1016
+Time in Bush: 25,92188
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 214
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,2773438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 426
+Round 215
+Round time: 160
+Time Performing Clean Action: 142,1992
+Time in Bush: 0,3203125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 216
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,039063
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 442
+Round 217
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 218
+Round time: 160
+Time Performing Clean Action: 311,4023
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 219
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3789063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 220
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3203125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 221
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,6445313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 222
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,515625
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 223
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 224
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,4609375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 437
+Round 225
+Round time: 160
+Time Performing Clean Action: 145,8008
+Time in Bush: 0,3789063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 226
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 227
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 9,539063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 371
+Round 228
+Round time: 160
+Time Performing Clean Action: 123,6992
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 229
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 19,83984
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 335
+Round 230
+Round time: 160
+Time Performing Clean Action: 111,9023
+Time in Bush: 0,3398438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 458
+Round 231
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 232
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 233
+Round time: 160
+Time Performing Clean Action: 472,9023
+Time in Bush: 4,179688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 312
+Round 234
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 235
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 236
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 237
+Round time: 160
+Time Performing Clean Action: 585,9023
+Time in Bush: 5,917969
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 369
+Round 238
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 239
+Round time: 160
+Time Performing Clean Action: 285,9023
+Time in Bush: 60,54688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 240
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,6445313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 241
+Round time: 160
+Time Performing Clean Action: 1,699219
+Time in Bush: 1,882813
+Amount Cleaned: 0,3
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 397
+Round 242
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 243
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 244
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 245
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 246
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 247
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 248
+Round time: 160
+Time Performing Clean Action: 1091,301
+Time in Bush: 3,941406
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 433
+Round 249
+Round time: 160
+Time Performing Clean Action: 144,6016
+Time in Bush: 0,1171875
+Amount Cleaned: 0,02
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 250
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,578125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 251
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 8,238281
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 252
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 118,3398
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 253
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,5195313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 254
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,4179688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 255
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 256
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,242188
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 48
+Round 257
+Round time: 160
+Time Performing Clean Action: 16
+Time in Bush: 6,632813
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 258
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 259
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3203125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 260
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,660156
+Amount Cleaned: 0,7299996
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 447
+Round 261
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 262
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 263
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 264
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 265
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 266
+Round time: 160
+Time Performing Clean Action: 950,6016
+Time in Bush: 14,28125
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 285
+Round 267
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 268
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 269
+Round time: 160
+Time Performing Clean Action: 419,1992
+Time in Bush: 0,9765625
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 270
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,984375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 43
+Round 271
+Round time: 160
+Time Performing Clean Action: 14,40234
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 478
+Round 272
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 273
+Round time: 160
+Time Performing Clean Action: 319,6016
+Time in Bush: 0,6796875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 468
+Round 274
+Round time: 160
+Time Performing Clean Action: 156
+Time in Bush: 0,5195313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 275
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,863281
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 276
+Round time: 160
+Time Performing Clean Action: 1
+Time in Bush: 2,855469
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 3
+Round 277
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 278
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 279
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 280
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 281
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3007813
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 282
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,183594
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 283
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 465
+Round 284
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 285
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 286
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 287
+Round time: 160
+Time Performing Clean Action: 635
+Time in Bush: 1,417969
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 288
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,773438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 262
+Round 289
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 290
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 291
+Round time: 160
+Time Performing Clean Action: 407,5
+Time in Bush: 1,507813
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 292
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 22,78906
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 293
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,566406
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 294
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 295
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,21875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 459
+Round 296
+Round time: 160
+Time Performing Clean Action: 153,5
+Time in Bush: 0,4375
+Amount Cleaned: 0,17
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 297
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 5,730469
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 298
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,9609375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 299
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 300
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,945313
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 301
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 136,1445
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 302
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,105469
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 303
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,8164063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 304
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 116,3828
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 305
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 470
+Round 306
+Round time: 160
+Time Performing Clean Action: 156,8008
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 307
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,03125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 308
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,984375
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 441
+Round 309
+Round time: 160
+Time Performing Clean Action: 151
+Time in Bush: 1,21875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 310
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,4960938
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 311
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 312
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3398438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 313
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,3789063
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 314
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,359375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 315
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,6796875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 316
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,484375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 317
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0,8398438
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 438
+Round 318
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 3,980469
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 468
+Round 319
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 320
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 321
+Round time: 160
+Time Performing Clean Action: 626,1992
+Time in Bush: 0,28125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 322
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 479
+Round 323
+Round time: 160
+Time Performing Clean Action: 159,9023
+Time in Bush: 1,753906
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 324
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 6,75
+Amount Cleaned: 2
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 425
+Round 325
+Round time: 160
+Time Performing Clean Action: 145,6992
+Time in Bush: 0,359375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 326
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,777344
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 327
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 10,09375
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 328
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 2,019531
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 174
+Round 329
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 330
+Round time: 160
+Time Performing Clean Action: 218
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 331
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,78125
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 429
+Round 332
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 333
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 334
+Round time: 160
+Time Performing Clean Action: 463,3008
+Time in Bush: 36,32031
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 335
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 6,214844
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 336
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 14,29688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 337
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,214844
+Amount Cleaned: 0,01
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 218
+Round 338
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 339
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 340
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 341
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 342
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 480
+Round 343
+Round time: 160
+Time Performing Clean Action: 873
+Time in Bush: 1,394531
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 442
+Round 344
+Round time: 160
+Time Performing Clean Action: 147,5
+Time in Bush: 0,6796875
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 345
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,335938
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 346
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 347
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 1,179688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 377
+Round 348
+Round time: 160
+Time Performing Clean Action: 125,7031
+Time in Bush: 0
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0
+Round 349
+Round time: 160
+Time Performing Clean Action: 0
+Time in Bush: 4,554688
+Amount Cleaned: 0
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 0

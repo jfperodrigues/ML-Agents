@@ -1,0 +1,8 @@
+Round 1
+Round time: 159,98
+Time Performing Clean Action: 13
+Time in Bush: 12,56
+Amount Cleaned: 6,000047
+Time at 6: 160
+Time at 10: 160
+Instances Cleaned outside Bush: 434
