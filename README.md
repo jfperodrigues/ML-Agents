@@ -49,6 +49,7 @@ With the bot and the game ready, all that is left is to train the bots. To do th
 ## Aditional Content
 
 [Examples](/Examples/): Example of the games. In this directory is is available the Clean the Bush and Carry the Box games played by bots trained with reinforcement learning, and the capture the flag game as a multiplayer game to be played by 6 players to obtain demonstrations for imitation learning.
+
 [Thesis](/Thesis/): Full version of my dissertation.
 
 ## Disclaimers
