@@ -49,11 +49,12 @@ With the bot and the game ready, all that is left is to train the bots. To do th
 ## Aditional Content
 
 [Examples](/Examples/): Example of the games. In this directory is is available the Clean the Bush and Carry the Box games played by bots trained with reinforcement learning, and the capture the flag game as a multiplayer game to be played by 6 players to obtain demonstrations for imitation learning.
-[Thesis](/Thesis/): Full version of my dissertation.
+
+[Thesis](/Thesis/): Full version of my thesis.
 
 ## Disclaimers
 
-This repository is meant as an introduction of the work of my dissertation "3D Sensing Character Simulation using Game Engine Physics.pdf" and not as a full fledged tutorial in how to use the ML-Agents plugin. For better material in how to use the plugin access the [ML-Agents](https://github.com/Unity-Technologies/ml-agents) repository.
+This repository is meant as an introduction of the work of my thesis "3D Sensing Character Simulation using Game Engine Physics.pdf" and not as a full fledged tutorial in how to use the ML-Agents plugin. For better material in how to use the plugin access the [ML-Agents](https://github.com/Unity-Technologies/ml-agents) repository.
 
 The work of this thesis was used to publish the paper "Character Simulation Using Imitation Learning With Game Engine Physics" at the [ICGI 2022](https://gpcg.pt/icgi2022/) conference.
 
