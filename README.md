@@ -25,3 +25,6 @@ In this competitive game, 2 teams of 3 players compete to steal the opposition f
 ## How to train bot with ML-Agents
 
 The ML-Agents plugin has 2 componets that are needed to teach bots how to play games. The first one is the unity package that supplies the editor with all the scripts and classes that are needed to create bots and environments for the simulations. The second one is the Python plugin which has all the algorithms tha can be used and is responsible with running all the simulation calculations. Tutorials in how to install the ML-Agents can be accessed in the [ML-Agents](https://github.com/miyamotok0105/unity-ml-agents/tree/master/docs) github page.
+
+To create bots that are able to move and learn through ML-Agents command, we need to attatch the bot's Game Object with a script that inheriths the Agent class from the plugin. This can be done in the movement script that bots need. Then, in order for bots to receive input from the simulation, we need to create our implementation from the OnActionReceived funcion from the Agent class, were we define every momement and action the bot can perform. To do this, we take every type of action the bot can perform, and branch it to an array of values that define which action of its type the bot should perform. 
+
