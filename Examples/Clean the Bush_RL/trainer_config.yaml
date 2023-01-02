@@ -1,0 +1,75 @@
+behaviors:
+  NPC_CTB:
+    trainer_type: ppo
+
+    hyperparameters:
+      # Hyperparameters common to PPO and SAC
+      #  How many pieces of data are extracted at a time for training 
+      batch_size: 512
+      #  Experience pool size 
+      buffer_size: 5120
+      #  Learning rate 
+      learning_rate: 3.0e-4
+      #  The learning rate is Linear Then it decreases linearly , When the maximum number of steps of training is reached, the attenuation is , If it is set to Constant Is constant 
+      learning_rate_schedule: constant
+
+      # PPO-specific hyperparameters
+      # Replaces the "PPO-specific hyperparameters" section above
+      # β value ,PPO Parameters , Determines the gap between the old and new strategies 
+      beta: 5.0e-3
+      beta_schedule: linear
+      #  Determines the randomness of the strategy , Generally, it should be based on large random in the early stage, which is conducive to exploration , Later, it decreases randomly 
+      epsilon: 0.2
+      epsilon_schedule: linear
+      # agents When updating the estimate, it depends on the current value , Tend to be 1 Is close to the update value , Tend to be 0 Close to the current estimate 
+      lambd: 0.95
+      #  Number of sampling experience pools during gradient descent 
+      num_epoch: 3
+
+    # Configuration of the neural network (common to PPO/SAC)
+    network_settings:
+      #  Coding type of visual observation ,simple Corresponding to two-layer convolutional neural network ,nature_cnn It's three convolutions ,resnet It's a complex convolution of layers 
+      vis_encode_type: simple
+      #  Whether to automatically standardize the observed values 
+      normalize: false
+      #  Number of hidden layer neural network units 
+      hidden_units: 512
+      #  Number of hidden layers 
+      num_layers: 2
+      #  Cyclic neural network , Be careful ：LSTM Not applicable to continuous action , Discrete actions can get better results 
+      memory:
+        #  The length of the empirical sequence to remember , The bigger the memory, the longer 
+        sequence_length: 64
+        #  The memory size saved by the agent , Must be 2 Multiple , And should be consistent with expectations agent It is proportional to the amount of information you need to remember to complete the task 
+        memory_size: 256
+
+    # Trainer configurations common to all trainers
+    #  Maximum training steps , Automatically exit after reaching 
+    max_steps: 1.0e7
+    #  The number of steps to be taken by the agent before adding to the experience pool , If there are frequent rewards , It can be set smaller 
+    time_horizon: 1000
+    #  Display statistics on the panel for each number of steps 
+    summary_freq: 10000
+    #  The number of models retained in training 
+    keep_checkpoints: 5
+    #  Save a model data for every number of empirical data collected , All retained models will be represented by .onnx Keep the document in the form of 
+    checkpoint_interval: 50000
+    #  Allows the environment to run when the model is updated , When using SAC When set to True Helps speed up training , But with Self Play Should be set to False
+    threaded: false
+    #  Previously saved model path 
+    init_path: null
+
+    reward_signals:
+      # environment reward (default)
+      extrinsic:
+        strength: 1.0
+        gamma: 0.99
+
+    # self-play
+    self_play:
+      window: 10
+      play_against_latest_model_ratio: 0.5
+      save_steps: 50000
+      swap_steps: 2000
+      team_change: 200000
+      initial_elo: 1200.0
